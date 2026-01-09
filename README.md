@@ -1,1 +1,5 @@
-Este repositorio se utilizará para realizar los ejercicios del módulo de Desarrollo de Aplicaciones Web relacionados con Git y GitHub.
+| NOMBRE | GITHUB |
+|--------|--------|
+| Darío Busto | https://github.com/Dabusss |
+| Carla Fernandez | https://github.com/CarlaFernandezTaus |
+| Diego Alonso | https://github.com/Diegoalonsom07 |
